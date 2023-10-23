@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\bin\Debug\for ornek 4-815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\bin\Debug\for ornek 4-815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\bin\Debug\for ornek 4-815.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for ornek 4-815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for ornek 4-815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for_ornek_4_815.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for_ornek_4_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for ornek 4-815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for ornek 4-815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for ornek 4-815.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\for ornek 4-815\for ornek 4-815\obj\Debug\for ornek 4-815.pdb
